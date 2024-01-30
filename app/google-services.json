@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167720888146",
+    "project_id": "swapapp-6341b",
+    "storage_bucket": "swapapp-6341b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167720888146:android:e152ca820f8e94c43e7c8b",
+        "android_client_info": {
+          "package_name": "com.example.swapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167720888146-3b1b93516vp8uve1kgn57ratm3qhhfs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhmLPBYeZECmhgnwD_hR7S93AQPDOkqv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167720888146-3b1b93516vp8uve1kgn57ratm3qhhfs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SwapApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="loginButton">Login</string>
+    <string name="signUpButton">Sign Up</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="prompt_email">Enter an email</string>
+    <string name="prompt_password">Enter a password</string>
+    <string name="prompt_name">Enter your name</string>
+    <string name="create_account">Create Account</string>
+    <string name="test">TextView</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_swap">Swap</string>
+    <string name="title_profile">Profile</string>
+    <string name="describe">Description</string>
+    <string name="title_activity_swap">SwapActivity</string>
+
+</resources>
